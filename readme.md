@@ -52,12 +52,7 @@ Aplicativo móvel de **previsão do tempo** desenvolvido com **React Native (Exp
 
 ### Passos
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/weather-forecast-app.git
-cd weather-forecast-app
-```
+ Baixe o repositório:
 
  Instale as dependências:
 
