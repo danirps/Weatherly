@@ -2,7 +2,7 @@
 
 Aplicativo móvel de **previsão do tempo** desenvolvido com **React Native (Expo)** e **TypeScript**, com foco em desempenho, interface moderna e boa experiência do usuário. O aplicativo fornece dados climáticos em tempo real, previsões detalhadas e recursos como histórico de consultas e alertas personalizados.
 
-![Screenshot do aplicativo](./assets/app-screenshot.png)
+<img src="./assets/app-screenshot.png" alt="Screenshot do aplicativo" width="400" />
 
 ---
 
